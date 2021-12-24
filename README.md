@@ -11,5 +11,7 @@ Also a choise to generate report or abbort it.
 
 Date input validation.
 
+Thank you!
+
 
 
